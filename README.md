@@ -22,7 +22,7 @@ To give a geographic perspective on sales, a map chart is shown. Stakeholders ca
 + ### Table
   Create table for each visualisation
 
-  #DashBoard
+  ## DashBoard
 
   
 ![global](https://github.com/user-attachments/assets/34ae41e4-afe8-4a9f-8a4d-cfd750196998)
